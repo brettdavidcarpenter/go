@@ -77,7 +77,7 @@ Start here.
   * *Example Code in:* R, Python, Sage, C, Gnu Scientific Library
 
 ### A Note About Direction
-This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing).
+This is an introduction geared toward those with at least **a minimum understanding of programming**, and (perhaps obviously) an interest in the components of Data Science (like statistics and distributed computing), if you're new to programming, we recommend you start [here](https://www.udacity.com/course/intro-to-computer-science--cs101).
 Out of personal preference and need for focus, I geared the original curriculum toward **Python tools and resources**. R resources can be found [here](http://bit.ly/osdsm-rresources).
 
 ### Math
@@ -143,11 +143,14 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * A Course in Machine Learning [UMD / Digital Book](http://bit.ly/22WyV3N)
  * The Elements of Statistical Learning / Stanford [Digital](http://bit.ly/ebook-elemstatlearn) & [Book ```$80```](http://amzn.to/1hmyKry) & [Study Group](http://www.reddit.com/r/eosl)
  * Machine Learning [Caltech / Edx](http://bit.ly/caltech-ml)
+ * Machine Learning Without the Code [Machine Learning Mastery](https://machinelearningmastery.com/applied-machine-learning-weka-mini-course/)
+ * Data Mining with Weka [University of Waikato](https://weka.waikato.ac.nz/explorer)
 
  _Practical_
  * Programming Collective Intelligence [Book ```$27```](http://amzn.to/1mqxYqW)
  * Machine Learning for Hackers [ipynb / digital book](http://bit.ly/mlforhackers)
  * Intro to scikit-learn, SciPy2013 [youtube tutorials](http://bit.ly/scikit-video-tuts)
+ * Machine Learning Nanodegree [Udacity Degree ```$200/month```](https://www.udacity.com/course/machine-learning-engineer-nanodegree--nd009t)
 
 ### **Probabilistic Modeling**
  * Probabilistic Programming and Bayesian Methods for Hackers [Github / Tutorials](http://bit.ly/ipnb-probabilisticprogramming)
@@ -157,6 +160,7 @@ _OSDSM Specialization: [Web Scraping & Crawling](https://github.com/datasciencem
  * Neural Networks [Andrej Karpathy / Python Walkthrough](http://bit.ly/karpathyneuralnets)
  * Neural Networks [U Toronto / Coursera](http://bit.ly/utoronto-neuralnets)
  * Deep Learning for Natural Language Processing CS224d [Stanford](http://cs224d.stanford.edu/syllabus.html)
+ * Deep Learning Foundations [Udacity / NanoDegree](https://www.udacity.com/course/deep-learning-nanodegree-foundation--nd101)
 
 #### **Social Network & Graph Analysis**
  * Social and Economic Networks: Models and Analysis / [Stanford / Coursera](http://bit.ly/stanford-socialeconnetworks)
@@ -258,6 +262,8 @@ _More Libraries can be found in the ["awesome machine learning"](https://github.
 
  * Doing Data Science: Straight Talk from the Frontline [O'Reilly / Book ```$25```](http://amzn.to/1vAIscK)
  * The Data Science Handbook: Advice and Insights from 25 Amazing Data Scientists [Book ```$22```](http://amzn.to/1J7lILJ)
+ * The Complete Guide to Landing a Career in Data [Udacity ebook](https://blog.udacity.com/2017/06/data-career-guide.html)
+ * Data Analyst Skills Checklist: Free E-guide [Udacity](https://blog.udacity.com/data-analyst-skills-checklist-eguide)
 
 ### Capstone Project
 * Capstone Analysis of Your Own Design; [Quora](http://bit.ly/quora-toyproblems)'s Idea Compendium
